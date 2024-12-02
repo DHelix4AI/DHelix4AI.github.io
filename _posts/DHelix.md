@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution"
+date:   2024-12-02
+tags: [geek]
+comments: true
+author: haiqwa
+---
+
 # Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution
 
 Recent advances in Generative AI, especially in chatbots and text generation, have fueled the rise of LLM training. However, communication overhead from intra-layer parallelism remains a major bottleneck. We introduce DHelix, a micro-structure that boosts training efficiency using Strand Interleaving (SI) to co-schedule forward and backward passes of micro-batches. Compatible with existing parallelism strategies, DHelix improves training throughput by up to 1.4× over Megatron-LM on various GPU clusters, effectively hiding communication overhead. Learn more in our paper: [arXiv](https://arxiv.org/pdf/2411.15871).
