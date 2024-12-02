@@ -20,12 +20,12 @@ description: "Blogs for DHelix"
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Homepage
-    url: /
-  - name: About
-    url: /about
-  - name: Blogs
-    url: /blogs
+  # - name: Homepage
+  #   url: /
+  # - name: About
+  #   url: /about
+  # - name: Blogs
+  #   url: /blogs
   # - name: 归档
   #   url: /archive
   # - name: 标签
