@@ -65,17 +65,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: haiqwa.github.io
-  owner: haiqwa
+  clientID: Ov23liURXSzIgIf0Byyc
+  clientSecret: 8063ce0fe39c55181c0aa5ca3cd55de46c3735a6
+  repo: DHelix4AI.github.io
+  owner: DHelix4AI
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://haiqwa.github.io
+url: https://DHelix4AI.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
